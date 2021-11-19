@@ -76,4 +76,5 @@ The Analysis of the election disclosed the following in corresponding order:
         and elections winner was efficient. 
     Additionally, the ability to convert the results to text (.txt) enables the reader to clearly determine the results.
     This can be translated to other congressional districts and local elections all over the US with a simple modification of the code by:
-        -altering the candidate and county names via a different set of lists and dictionaries.
+        -altering the candidate names 
+        -altering the county via a different set of lists and dictionaries.
