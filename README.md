@@ -68,13 +68,14 @@ The Analysis of the election disclosed the following in corresponding order:
   8. Therefore, the county with the greatest voter turnout was Denver
       
 ## Election Audit Summary
-
-    In conclusion, the capability of Python to automate the code in order to tally the required information to determine:
+In conclusion, the capability of Python to automate the code in order to tally the required information to determine the following was efficient:
         candidtates and counties with pecentages for both; 
         voter turnout; 
-        county with the greatest turnout 
-        and elections winner was efficient. 
-    Additionally, the ability to convert the results to text (.txt) enables the reader to clearly determine the results.
-    This can be translated to other congressional districts and local elections all over the US with a simple modification of the code by:
-        -altering the candidate names 
-        -altering the county via a different set of lists and dictionaries.
+        county with the greatest turnout; 
+        and elections winner 
+        Additionally, the ability to convert the results to text (.txt) enables the reader to clearly determine the results, which Tom and Seth both appreciated.
+    This can be translated to other congressional districts and local elections all over the US with a simple modification of the code by altering the lists and dictionaries to consider different:
+        -candidate names 
+        -county names
+        -and results on a State and federal level.
+        
