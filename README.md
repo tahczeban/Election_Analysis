@@ -1,7 +1,7 @@
 # Election_Analysis
 Python/VScode
-## Project Overview
-Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty strings; variables; for loops; decision statements with logical operators; repitition statements with conversion to text files in order to assist Tom. Tom is an employee at the Colorado Board of Elections and this was completed a) to generate a report to certify this election and b) help Tom determine if Python is more efficient at automating the report in comparison to VBA, per the request of his manager, Seth.
+## Overview of Election Audit
+Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty strings; variables; for loops; decision statements with logical operators; repitition statements with conversion to text files in order to assist Tom. Tom is an employee at the Colorado Board of Elections and this was completed a) to generate a report to certify this election and b) help Tom determine if Python is more efficient at automating the report in comparison to VBA, per the request of his manager, Seth. This report emphasized the following in order to complete the assessment:
 
 1. Calculate total# votes
 2. Formulate a complete list of candidates receiving votes
@@ -16,7 +16,7 @@ Completed the following tasks for election audit of a recent local congressional
 - Data source:election_results.csv
 - Software: Python 3.7.6, 3.8.8, Visual Studio Code 1.62.2
 
-## Summary
+## Election Audit Results
 The Analysis of the election show that:
   1. the total number of votes for this election were 369,711 votes
   2. The complete list  of candidates receiving votes is:
@@ -36,6 +36,4 @@ The Analysis of the election show that:
   7. The percentage of votes from each county out of the total votes were; Jefferson 10.5%; Denver 82.8%, Arapahoe 6.7%
   8. Therefore, the county with the greatest voter turnout was Denver
       
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
