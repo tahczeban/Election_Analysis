@@ -1,7 +1,7 @@
 # Election_Analysis
 Python/VScode
 ## Project Overview
-Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty streings; variables; for loops; decision statements with logical operators; repitition statements
+Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty strings; variables; for loops; decision statements with logical operators; repitition statements with conversion to text files in order to assist Tom. Tom is an employee at the Colorado Board of Elections and this was completed a) to generate a report to certify this election and b) help Tom determine if Python is more efficient at automating the report in comparison to VBA, per the request of his manager, Seth.
 
 1. Calculate total# votes
 2. Formulate a complete list of candidates receiving votes
