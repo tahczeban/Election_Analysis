@@ -8,6 +8,9 @@ Completed the following tasks for election audit of a recent local congressional
 3. Calculate total #votes each candidate received
 4. Calclate %votes each candidate won
 5. Determine winner of election based on popular vote
+6. Determine the voter turnout for each county
+7. Calculate the percentage of votes from each county out of the total votes
+8. Determine the county with the highest turnout
 
 ## Resources
 - Data source:election_results.csv
