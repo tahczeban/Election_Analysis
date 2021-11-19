@@ -17,7 +17,7 @@ Completed the following tasks for election audit of a recent local congressional
 - Software: Python 3.7.6, 3.8.8, Visual Studio Code 1.62.2
 
 ## Election Audit Results
-The Analysis of the election show that:
+The Analysis of the election disclosed the following in corresponding order:
   1. the total number of votes for this election were 369,711 votes
   2. The complete list  of candidates receiving votes is:
       a) Charles Casper Stockham
