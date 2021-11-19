@@ -1,5 +1,6 @@
 # Election_Analysis
 Python/VScode
+
 ## Overview of Election Audit
 Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty strings; variables; for loops; decision statements with logical operators; repitition statements with conversion to text files in order to assist Tom. Tom is an employee at the Colorado Board of Elections and this was completed a) to generate a report to certify this election and b) help Tom determine if Python is more efficient at automating the report in comparison to VBA, per the request of his manager, Seth. This report emphasized the following in order to complete the assessment:
 
@@ -17,6 +18,36 @@ Completed the following tasks for election audit of a recent local congressional
 - Software: Python 3.7.6, 3.8.8, Visual Studio Code 1.62.2
 
 ## Election Audit Results
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+38855
+Jefferson: 10.5% (38,855)
+306055
+Denver: 82.8% (306,055)
+24801
+Arapahoe: 6.7% (24,801)
+Denver-------------------------
+Winner: Denver
+Winning Vote Count: 306,055
+Winning Percentage: 82.8%
+-------------------------
+
+Charles Casper Stockham: 23.0% (85,213)
+
+Diana DeGette: 73.8% (272,892)
+
+Raymon Anthony Doane: 3.1% (11,606)
+
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
 The Analysis of the election disclosed the following in corresponding order:
   1. the total number of votes for this election were 369,711 votes
   2. The complete list  of candidates receiving votes is:
