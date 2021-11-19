@@ -69,4 +69,11 @@ The Analysis of the election disclosed the following in corresponding order:
       
 ## Election Audit Summary
 
-    In conclusion, the capability of Python to automate the code in order to tally the required information to determine candidtates and counties with pecentages for both; voter turnout; county with the greatest turnout and elections winner was efficient. Additionally, the ability to convert the results to text (.txt) enables the reader to clearly determine the results. This can be translated to other congressional districts and local elections all over the US with a simple modification of the code by altering the candidate and county names via a different set of lists and dictionaries.
+    In conclusion, the capability of Python to automate the code in order to tally the required information to determine
+        candidtates and counties with pecentages for both; 
+        voter turnout; 
+        county with the greatest turnout 
+        and elections winner was efficient. 
+    Additionally, the ability to convert the results to text (.txt) enables the reader to clearly determine the results.
+    This can be translated to other congressional districts and local elections all over the US with a simple modification of the code by:
+        -altering the candidate and county names via a different set of lists and dictionaries.
