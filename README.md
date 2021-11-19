@@ -69,7 +69,7 @@ The Analysis of the election disclosed the following in corresponding order:
       
 ## Election Audit Summary
 
-    In conclusion, the capability of Python to automate the code in order to tally the required information to determine
+    In conclusion, the capability of Python to automate the code in order to tally the required information to determine:
         candidtates and counties with pecentages for both; 
         voter turnout; 
         county with the greatest turnout 
