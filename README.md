@@ -1,7 +1,7 @@
 # Election_Analysis
 Python/VScode
 ## Project Overview
-Completed the following tasks for election audit of a recent local congressional election.
+Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty streings; variables; for loops; decision statements with logical operators; repitition statements
 
 1. Calculate total# votes
 2. Formulate a complete list of candidates receiving votes
