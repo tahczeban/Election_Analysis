@@ -18,7 +18,20 @@ Completed the following tasks for election audit of a recent local congressional
 
 ## Summary
 The Analysis of the election show that:
-
+  1. the total number of votes for this election were 369,711 votes
+  2. The complete list  of candidates receiving votes is:
+      a) Charles Casper Stockham
+      b) Diana DeGette
+      c) Raymon Anthony Doane
+  3. The total #votes each received, respectively were:
+      a) 85,213
+      b) 272,892
+      c) 11,606
+  4. The percent votes each candidate won were:
+      a) 23.0%
+      b) 73.8%
+      c) 3.1%
+  5. The winner of the election based on popular vote was
 ## Challenge Overview
 
 ## Challenge Summary
