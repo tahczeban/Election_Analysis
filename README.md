@@ -19,35 +19,35 @@ Completed the following tasks for election audit of a recent local congressional
 
 ## Election Audit Results
 
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
+    Election Results
+    -------------------------
+    Total Votes: 369,711
+    -------------------------
 
-County Votes:
-38855
-Jefferson: 10.5% (38,855)
-306055
-Denver: 82.8% (306,055)
-24801
-Arapahoe: 6.7% (24,801)
-Denver-------------------------
-Winner: Denver
-Winning Vote Count: 306,055
-Winning Percentage: 82.8%
--------------------------
+    County Votes:
+    38855
+    Jefferson: 10.5% (38,855)
+    306055
+    Denver: 82.8% (306,055)
+    24801
+    Arapahoe: 6.7% (24,801)
+    Denver-------------------------
+    Winner: Denver
+    Winning Vote Count: 306,055
+    Winning Percentage: 82.8%
+    -------------------------
 
-Charles Casper Stockham: 23.0% (85,213)
+    Charles Casper Stockham: 23.0% (85,213)
 
-Diana DeGette: 73.8% (272,892)
+    Diana DeGette: 73.8% (272,892)
 
-Raymon Anthony Doane: 3.1% (11,606)
+    Raymon Anthony Doane: 3.1% (11,606)
 
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+    -------------------------
+    Winner: Diana DeGette
+    Winning Vote Count: 272,892
+    Winning Percentage: 73.8%
+    -------------------------
 The Analysis of the election disclosed the following in corresponding order:
   1. the total number of votes for this election were 369,711 votes
   2. The complete list  of candidates receiving votes is:
