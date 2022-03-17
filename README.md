@@ -1,7 +1,14 @@
 # Election_Analysis
 Python/VScode
+______________
+
+
+![image](https://user-images.githubusercontent.com/90135381/158719612-efa697c9-406f-49fe-bacb-01d663aaffca.png)
+
+
 
 ## Overview of Election Audit
+______________________________
 Completed the following tasks for election audit of a recent local congressional election via creation of lists and dictionaries; empty strings; variables; for loops; decision statements with logical operators; repitition statements with conversion to text files in order to assist Tom. Tom is an employee at the Colorado Board of Elections and this was completed a) to generate a report to certify this election and b) help Tom determine if Python is more efficient at automating the report in comparison to VBA, per the request of his manager, Seth. This report emphasized the following in order to complete the assessment:
 
 1. Calculate total# votes
@@ -14,10 +21,13 @@ Completed the following tasks for election audit of a recent local congressional
 8. Determine the county with the highest turnout
 
 ## Resources
+____________
 - Data source:election_results.csv
 - Software: Python 3.7.6, 3.8.8, Visual Studio Code 1.62.2
+- image obtained from: pixabay.com
 
 ## Election Audit Results
+_________________________
 
     Election Results
     -------------------------
@@ -68,6 +78,8 @@ The Analysis of the election disclosed the following in corresponding order:
   8. Therefore, the county with the greatest voter turnout was Denver
       
 ## Election Audit Summary
+_________________________
+
 In conclusion, the capability of Python to automate the code in order to tally the required information to determine the following was efficient:
         candidtates and counties with pecentages for both; 
         voter turnout; 
